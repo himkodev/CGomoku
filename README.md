@@ -70,7 +70,7 @@ CGomoku uses no more than the `SDL2` library, along with two of its extension li
 CGomoku is licensed under the [MIT License].
 All game assets and sound effects were created by the author for the purpose of this project.
 
-Author: Dawid Cyganek [@hhimko]
+Author: Dawid Cyganek [@himkodev]
 
 
 
@@ -84,4 +84,4 @@ Author: Dawid Cyganek [@hhimko]
 [SDL2-devel]: https://github.com/libsdl-org/SDL/releases
 [dependencies]: #dependencies
 [MIT License]: https://opensource.org/licenses/MIT
-[@hhimko]: https://github.com/hhimko
+[@himkodev]: https://github.com/himkodev
